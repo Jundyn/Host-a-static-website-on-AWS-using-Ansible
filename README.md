@@ -119,7 +119,7 @@ The architecture includes:
 
 ## Repository
 
-You can find the reference diagram and deployment scripts in the GitHub repository: [GitHub Repository](https://github.com/your-repo-link)
+You can find the reference diagram and deployment scripts in the GitHub repository: [GitHub Repository](https://github.com/Jundyn/Host-a-static-website-on-AWS-using-Ansible.git)
 
 ## Conclusion
 
