@@ -77,7 +77,7 @@ The architecture includes:
 
         - name: download web files from GitHub
           get_url:
-            url: https://github.com/azeezsalu/jupiter/archive/refs/heads/main.zip
+            url: https://github.com/Jundyn/applicationcode/blob/main/jupiter-main.zip
             dest: /var/www/html/
 
         - name: unzip the zip folder
